@@ -1,4 +1,6 @@
 {
   "item.kaupentutorial.suspicious_substance": "Suspicious Substance",
-  "item.kaupentutorial.purple_powder": "Purple Powder"
+  "item.kaupentutorial.purple_powder": "Purple Powder",
+
+  "block.kaupentutorial.suspicious_block": "Suspicious Block"
 }

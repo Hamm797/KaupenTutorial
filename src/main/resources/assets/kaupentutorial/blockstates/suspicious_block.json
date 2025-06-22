@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kaupentutorial:block/suspicious_block"
+    }
+  }
+}
