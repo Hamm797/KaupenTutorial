@@ -2,5 +2,7 @@
   "item.kaupentutorial.suspicious_substance": "Suspicious Substance",
   "item.kaupentutorial.purple_powder": "Purple Powder",
 
-  "block.kaupentutorial.suspicious_block": "Suspicious Block"
+  "block.kaupentutorial.suspicious_block": "Suspicious Block",
+
+  "itemgroup.kaupentutorial.kaupen_tutorial_items": "Kaupen Tutorial Items"
 }
